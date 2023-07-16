@@ -93,5 +93,7 @@ public class WhenWorkingWithMaps {
         boolean containsTuna = favoriteFood.containsValue(TUNA);
 
         assertThat(containsTuna).isTrue();
+
+
     }
 }
